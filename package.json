@@ -1,0 +1,9 @@
+{
+  "name": "react-native-deprecated-modules",
+  "version": "0.48.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:facebookarchive/react-native-deprecated-modules.git"
+  }
+}
